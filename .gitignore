@@ -1,0 +1,9 @@
+kaggle.json
+
+# file
+*.jpg
+*.zip
+*.csv
+
+# dir
+*.x
