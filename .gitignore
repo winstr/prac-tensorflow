@@ -2,6 +2,7 @@ kaggle.json
 
 # file
 *.jpg
+*.png
 *.zip
 *.csv
 
